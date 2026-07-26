@@ -1,0 +1,27 @@
+generated: '2026-07-19'
+method: searched
+source: https://fibraweb.it/certificazioni/
+note: >-
+  Fibraweb S.p.A. does not publish a public developer API or OpenAPI, so no
+  API/protocol-level conformance can be derived. The standards below are the
+  organizational management-system certifications the company publishes on its
+  certifications page.
+standards:
+- id: iso-9001
+  name: ISO 9001 (Quality Management)
+  conforms: true
+  evidence: >-
+    Certification of the quality management system, published on
+    https://fibraweb.it/certificazioni/
+- id: iso-iec-27001
+  name: ISO/IEC 27001 (Information Security Management)
+  conforms: true
+  evidence: >-
+    Certification of the information security management system, published on
+    https://fibraweb.it/certificazioni/
+- id: iso-iec-27017
+  name: ISO/IEC 27017 (Cloud Services Security Controls)
+  conforms: true
+  evidence: >-
+    Extension of ISO/IEC 27001 covering security controls for cloud services,
+    published on https://fibraweb.it/certificazioni/
