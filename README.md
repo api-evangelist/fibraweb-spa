@@ -64,6 +64,82 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Fibraweb, S.p.a. is a company surfaced as a portfolio company of battery-ventures and added to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+Fibraweb S.p.A. is an Italian telecommunications infrastructure operator, founded in 2012 and headquartered in Perugia (Umbria), that designs, builds and operates its own fiber-optic access network for businesses, wholesale operators and public administrations. The company delivers FTTH/FTTB ultra-broadband internet access, dedicated internet access circuits, and local and long-distance voice/telephony services across the Umbria, Marche, Toscana and Lazio regions, with a proprietary network of roughly 1,500 km of fiber reaching 150 industrial zones and the ability to connect over 30,000 companies. Fibraweb is a Battery Ventures portfolio company (investors also include Equiter and GTD Grupo Teleductos) and holds ISO 9001, ISO/IEC 27001 and ISO/IEC 27017 certifications. It was added to the API Evangelist network as a portfolio lead; the company does not currently publish a public developer API, developer portal, or API documentation.
 
-Backed by: battery-ventures
+**Areas:** Company · Telecommunications · Fiber Optics · Broadband · Connectivity · Internet Service Provider · Italy · Infrastructure
+
+## Fibraweb, S.p.a. on APIs.io
+
+Everything profiled for Fibraweb, S.p.a. is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/fibraweb-spa/](https://apis.io/providers/fibraweb-spa/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Fibraweb Spa Domain Security](https://apis.io/security/fibraweb-spa/fibraweb-spa-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://fibraweb.it/)
+- [Support](https://fibraweb.it/contatti/)
+- [Compliance](https://fibraweb.it/certificazioni/)
+- [Privacy policy](https://fibraweb.it/privacy-policy/)
+
+## API Evangelist rating
+
+**Kin Score 11.1** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 48.2 |
+| Contract quality | 0.0 |
+| Contract governance | 18.2 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 4.8 |
+| Access clarity | 18.4 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 16.7** — Telecommunications
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/fibraweb-spa/](https://apis.io/providers/fibraweb-spa/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Fibraweb, S.p.a.: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/fibraweb-spa/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
